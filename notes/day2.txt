@@ -1,2 +1,0 @@
-ECHO is on. this is very exciting to learn cmd
-
